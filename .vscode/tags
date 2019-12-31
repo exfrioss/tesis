@@ -1,0 +1,274 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+CORS	../app.py	/^from flask_cors import CORS$/;"	kind:namespace	line:3
+Cargo	../agente/Personal/personal.py	/^from agente.cargo.get_cargo import Cargo$/;"	kind:namespace	line:5
+Cargo	../agente/cargo/cargo.py	/^from agente.cargo.get_cargo import Cargo$/;"	kind:namespace	line:3
+Cargo	../agente/cargo/get_cargo.py	/^class Cargo:$/;"	kind:class	line:6
+Cliente	../agente/Cliente/cliente.py	/^from agente.Cliente.query_cliente import Cliente$/;"	kind:namespace	line:3
+Cliente	../agente/Cliente/query_cliente.py	/^class Cliente:$/;"	kind:class	line:4
+DEBUG	../mysql_connect.py	/^DEBUG = True$/;"	kind:variable	line:1
+Flask	../administrar/proveedor/insumo/insumo.py	/^from flask import Flask, jsonify, request$/;"	kind:namespace	line:1
+Flask	../administrar/proveedor/pedido/pedido.py	/^from flask import Flask, jsonify, request$/;"	kind:namespace	line:1
+Flask	../agente/Cliente/cliente.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+Flask	../agente/Personal/personal.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+Flask	../agente/Proveedor/proveedor.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+Flask	../agente/cargo/cargo.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+Flask	../agente/cargo/get_cargo.py	/^from flask import Flask, json, jsonify$/;"	kind:namespace	line:1
+Flask	../app.py	/^from flask import Flask, jsonify$/;"	kind:namespace	line:1
+Flask	../localidades/ciudad/ciudad.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+Flask	../localidades/departamento/departamento.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+Flask	../localidades/region/get_region.py	/^from flask import Flask, json, jsonify$/;"	kind:namespace	line:1
+Flask	../localidades/region/region.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+Insumo	../administrar/proveedor/insumo/get_insumo.py	/^class Insumo:$/;"	kind:class	line:5
+Insumo	../administrar/proveedor/insumo/insumo.py	/^from administrar.proveedor.insumo.get_insumo import Insumo$/;"	kind:namespace	line:2
+MYSQL_DB	../mysql_connect.py	/^MYSQL_DB = 'mydb'$/;"	kind:variable	line:5
+MYSQL_HOST	../mysql_connect.py	/^MYSQL_HOST = 'localhost'$/;"	kind:variable	line:2
+MYSQL_PASSWORD	../mysql_connect.py	/^MYSQL_PASSWORD = 'Th3;3nd is 0nly th3 b3g1nn1ng'$/;"	kind:variable	line:4
+MYSQL_USER	../mysql_connect.py	/^MYSQL_USER = 'root'$/;"	kind:variable	line:3
+MySQL	../app.py	/^from flask_mysqldb import MySQL$/;"	kind:namespace	line:2
+MySQLdb	../administrar/proveedor/insumo/get_insumo.py	/^import MySQLdb$/;"	kind:namespace	line:2
+MySQLdb	../administrar/proveedor/pedido/get_pedido.py	/^import MySQLdb$/;"	kind:namespace	line:2
+MySQLdb	../agente/Cliente/query_cliente.py	/^import MySQLdb$/;"	kind:namespace	line:2
+MySQLdb	../agente/Personal/query_personal.py	/^import MySQLdb$/;"	kind:namespace	line:2
+MySQLdb	../agente/Proveedor/get_proveedor.py	/^import MySQLdb$/;"	kind:namespace	line:2
+MySQLdb	../agente/cargo/get_cargo.py	/^import MySQLdb$/;"	kind:namespace	line:3
+MySQLdb	../localidades/ciudad/get_ciudad.py	/^import MySQLdb$/;"	kind:namespace	line:2
+MySQLdb	../localidades/departamento/get_departamento.py	/^import MySQLdb$/;"	kind:namespace	line:2
+MySQLdb	../localidades/region/get_region.py	/^import MySQLdb$/;"	kind:namespace	line:3
+Pedido	../administrar/proveedor/pedido/get_pedido.py	/^class Pedido:$/;"	kind:class	line:4
+Pedido	../administrar/proveedor/pedido/pedido.py	/^from administrar.proveedor.pedido.get_pedido import Pedido$/;"	kind:namespace	line:2
+Personal	../administrar/proveedor/pedido/pedido.py	/^from agente.Personal.query_personal import Personal$/;"	kind:namespace	line:4
+Personal	../agente/Personal/personal.py	/^from agente.Personal.query_personal import Personal$/;"	kind:namespace	line:4
+Personal	../agente/Personal/query_personal.py	/^class Personal:$/;"	kind:class	line:4
+Proveedor	../administrar/proveedor/pedido/pedido.py	/^from agente.Proveedor.get_proveedor import Proveedor$/;"	kind:namespace	line:3
+Proveedor	../agente/Proveedor/get_proveedor.py	/^class Proveedor:$/;"	kind:class	line:4
+Proveedor	../agente/Proveedor/proveedor.py	/^from agente.Proveedor.get_proveedor import Proveedor$/;"	kind:namespace	line:4
+Region	../localidades/region/region.py	/^def Region():$/;"	kind:function	line:11
+SECRET_KEY	../mysql_connect.py	/^SECRET_KEY = 'mysecretkey'/;"	kind:variable	line:6
+ValidarR	../localidades/region/region.py	/^def ValidarR():$/;"	kind:function	line:58
+_Ciudad	../agente/Cliente/cliente.py	/^from localidades.ciudad.get_ciudad import _Ciudad$/;"	kind:namespace	line:2
+_Ciudad	../agente/Personal/personal.py	/^from localidades.ciudad.get_ciudad import _Ciudad$/;"	kind:namespace	line:3
+_Ciudad	../agente/Proveedor/proveedor.py	/^from localidades.ciudad.get_ciudad import _Ciudad$/;"	kind:namespace	line:3
+_Ciudad	../localidades/ciudad/get_ciudad.py	/^class _Ciudad:$/;"	kind:class	line:5
+_Depa	../localidades/ciudad/ciudad.py	/^from localidades.departamento.get_departamento import _Depa$/;"	kind:namespace	line:3
+_Depa	../localidades/departamento/departamento.py	/^from localidades.departamento.get_departamento import _Depa$/;"	kind:namespace	line:2
+_Depa	../localidades/departamento/get_departamento.py	/^class _Depa:$/;"	kind:class	line:4
+_Region	../localidades/departamento/departamento.py	/^from localidades.region.get_region import _Region$/;"	kind:namespace	line:3
+_Region	../localidades/region/get_region.py	/^class _Region:$/;"	kind:class	line:6
+_Region	../localidades/region/region.py	/^from localidades.region.get_region import _Region$/;"	kind:namespace	line:3
+_main	../env/bin/pycodestyle	/^from pycodestyle import _main$/;"	kind:namespace	line:6
+add_cargo	../agente/cargo/cargo.py	/^def add_cargo():$/;"	kind:function	line:32
+add_ciudad	../localidades/ciudad/ciudad.py	/^def add_ciudad():$/;"	kind:function	line:33
+add_cliente	../agente/Cliente/cliente.py	/^def add_cliente():$/;"	kind:function	line:68
+add_departamento	../localidades/departamento/departamento.py	/^def add_departamento():$/;"	kind:function	line:61
+add_employee	../agente/Personal/personal.py	/^def add_employee():$/;"	kind:function	line:69
+add_proveedor	../agente/Proveedor/proveedor.py	/^def add_proveedor():$/;"	kind:function	line:97
+add_region	../localidades/region/region.py	/^def add_region():$/;"	kind:function	line:40
+addinsumo	../administrar/proveedor/insumo/insumo.py	/^def addinsumo():$/;"	kind:function	line:77
+addpedidos	../administrar/proveedor/pedido/pedido.py	/^def addpedidos():$/;"	kind:function	line:76
+app	../administrar/proveedor/insumo/insumo.py	/^from app import app, db$/;"	kind:namespace	line:3
+app	../administrar/proveedor/pedido/pedido.py	/^from app import app, db$/;"	kind:namespace	line:5
+app	../agente/Cliente/cliente.py	/^from app import app, db$/;"	kind:namespace	line:4
+app	../agente/Personal/personal.py	/^from app import app, db$/;"	kind:namespace	line:2
+app	../agente/Proveedor/proveedor.py	/^from app import app, db$/;"	kind:namespace	line:2
+app	../agente/cargo/cargo.py	/^from app import app, render_template, db$/;"	kind:namespace	line:2
+app	../app.py	/^app = Flask(__name__)$/;"	kind:variable	line:5
+app	../localidades/ciudad/ciudad.py	/^from app import app, db$/;"	kind:namespace	line:4
+app	../localidades/departamento/departamento.py	/^from app import app, db$/;"	kind:namespace	line:4
+app	../localidades/region/region.py	/^from app import app, render_template, db$/;"	kind:namespace	line:2
+app.py	../app.py	1;"	kind:file	line:1
+autopep8	../env/bin/autopep8	1;"	kind:file	line:1
+cargo	../agente/cargo/cargo.py	/^def cargo():$/;"	kind:function	line:7
+cargo.py	../agente/cargo/cargo.py	1;"	kind:file	line:1
+ciudad	../localidades/ciudad/ciudad.py	/^def ciudad():$/;"	kind:function	line:8
+ciudad.py	../localidades/ciudad/ciudad.py	1;"	kind:file	line:1
+cliente	../agente/Cliente/cliente.py	/^def cliente(): $/;"	kind:function	line:9
+cliente.py	../agente/Cliente/cliente.py	1;"	kind:file	line:1
+db	../administrar/proveedor/insumo/get_insumo.py	/^from app import db$/;"	kind:namespace	line:1
+db	../administrar/proveedor/insumo/insumo.py	/^from app import app, db$/;"	kind:namespace	line:3
+db	../administrar/proveedor/pedido/get_pedido.py	/^from app import db$/;"	kind:namespace	line:1
+db	../administrar/proveedor/pedido/pedido.py	/^from app import app, db$/;"	kind:namespace	line:5
+db	../agente/Cliente/cliente.py	/^from app import app, db$/;"	kind:namespace	line:4
+db	../agente/Cliente/query_cliente.py	/^from app import db$/;"	kind:namespace	line:1
+db	../agente/Personal/personal.py	/^from app import app, db$/;"	kind:namespace	line:2
+db	../agente/Personal/query_personal.py	/^from app import db$/;"	kind:namespace	line:1
+db	../agente/Proveedor/get_proveedor.py	/^from app import db$/;"	kind:namespace	line:1
+db	../agente/Proveedor/proveedor.py	/^from app import app, db$/;"	kind:namespace	line:2
+db	../agente/cargo/cargo.py	/^from app import app, render_template, db$/;"	kind:namespace	line:2
+db	../agente/cargo/get_cargo.py	/^from app import db$/;"	kind:namespace	line:2
+db	../app.py	/^db = MySQL(app)$/;"	kind:variable	line:7
+db	../localidades/ciudad/ciudad.py	/^from app import app, db$/;"	kind:namespace	line:4
+db	../localidades/ciudad/get_ciudad.py	/^from app import db$/;"	kind:namespace	line:1
+db	../localidades/departamento/departamento.py	/^from app import app, db$/;"	kind:namespace	line:4
+db	../localidades/departamento/get_departamento.py	/^from app import db$/;"	kind:namespace	line:1
+db	../localidades/region/get_region.py	/^from app import db$/;"	kind:namespace	line:2
+db	../localidades/region/region.py	/^from app import app, render_template, db$/;"	kind:namespace	line:2
+delet_cargo	../agente/cargo/cargo.py	/^def delet_cargo(id):$/;"	kind:function	line:71
+delet_ciudad	../localidades/ciudad/ciudad.py	/^def delet_ciudad(id):$/;"	kind:function	line:63
+delet_ciudad	../localidades/ciudad/get_ciudad.py	/^    def delet_ciudad(id):$/;"	kind:member	line:81
+delet_depa	../localidades/departamento/get_departamento.py	/^    def delet_depa(id):$/;"	kind:member	line:56
+delet_departamento	../localidades/departamento/departamento.py	/^def delet_departamento(id):$/;"	kind:function	line:91
+delet_region	../localidades/region/region.py	/^def delet_region(id):$/;"	kind:function	line:79
+deleteInsumo	../administrar/proveedor/insumo/get_insumo.py	/^    def deleteInsumo(codInsumo):$/;"	kind:member	line:74
+delete_cliente	../agente/Cliente/cliente.py	/^def delete_cliente(id):$/;"	kind:function	line:51
+delete_customer	../agente/Cliente/query_cliente.py	/^    def delete_customer(id):$/;"	kind:member	line:87
+delete_employee	../agente/Personal/personal.py	/^def delete_employee(id):$/;"	kind:function	line:62
+delete_employee	../agente/Personal/query_personal.py	/^    def delete_employee(id):$/;"	kind:member	line:72
+delete_proveedor	../agente/Proveedor/get_proveedor.py	/^    def delete_proveedor(id):$/;"	kind:member	line:71
+delete_proveedor	../agente/Proveedor/proveedor.py	/^def delete_proveedor(id):$/;"	kind:function	line:89
+deleteinsumo	../administrar/proveedor/insumo/insumo.py	/^def deleteinsumo(id):$/;"	kind:function	line:72
+departamento	../localidades/departamento/departamento.py	/^def departamento():$/;"	kind:function	line:7
+departamento.py	../localidades/departamento/departamento.py	1;"	kind:file	line:1
+departamento_off	../localidades/departamento/departamento.py	/^def departamento_off():$/;"	kind:function	line:34
+findinsumobyid	../administrar/proveedor/insumo/insumo.py	/^def findinsumobyid(codigo):$/;"	kind:function	line:39
+flash	../agente/Cliente/cliente.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+flash	../agente/Personal/personal.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+flash	../agente/Proveedor/proveedor.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+flash	../agente/cargo/cargo.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+flash	../localidades/ciudad/ciudad.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+flash	../localidades/departamento/departamento.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+flash	../localidades/region/region.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+getDetallePedidos	../administrar/proveedor/pedido/get_pedido.py	/^    def getDetallePedidos(idPedido):$/;"	kind:member	line:24
+getInsumo	../administrar/proveedor/insumo/get_insumo.py	/^    def getInsumo():$/;"	kind:member	line:7
+getInsumo	../administrar/proveedor/insumo/insumo.py	/^def getInsumo():$/;"	kind:function	line:7
+getInsumoById	../administrar/proveedor/insumo/get_insumo.py	/^    def getInsumoById(id):$/;"	kind:member	line:31
+getPedido	../administrar/proveedor/pedido/pedido.py	/^def getPedido():$/;"	kind:function	line:8
+getPedidos	../administrar/proveedor/pedido/get_pedido.py	/^    def getPedidos():$/;"	kind:member	line:6
+getPersonalById	../agente/Personal/query_personal.py	/^    def getPersonalById(id):$/;"	kind:member	line:29
+getProveedorById	../agente/Proveedor/get_proveedor.py	/^    def getProveedorById(id):$/;"	kind:member	line:28
+get_CiudadOff	../localidades/ciudad/get_ciudad.py	/^    def get_CiudadOff():$/;"	kind:member	line:14
+get_cargo	../agente/cargo/get_cargo.py	/^    def get_cargo():$/;"	kind:member	line:8
+get_cargo.py	../agente/cargo/get_cargo.py	1;"	kind:file	line:1
+get_cargoBy_Id	../agente/cargo/get_cargo.py	/^    def get_cargoBy_Id(id):$/;"	kind:member	line:102
+get_cityBy_ID	../localidades/ciudad/get_ciudad.py	/^    def get_cityBy_ID(id):$/;"	kind:member	line:60
+get_cityBy_depa	../localidades/ciudad/get_ciudad.py	/^    def get_cityBy_depa(id):$/;"	kind:member	line:38
+get_ciudad	../localidades/ciudad/ciudad.py	/^from localidades.ciudad import get_ciudad$/;"	kind:namespace	line:2
+get_ciudad.py	../localidades/ciudad/get_ciudad.py	1;"	kind:file	line:1
+get_ciudadOn	../localidades/ciudad/get_ciudad.py	/^    def get_ciudadOn():$/;"	kind:member	line:7
+get_clienteOff	../agente/Cliente/query_cliente.py	/^    def get_clienteOff():$/;"	kind:member	line:28
+get_clienteOn	../agente/Cliente/query_cliente.py	/^    def get_clienteOn():$/;"	kind:member	line:6
+get_cliente_For_ID	../agente/Cliente/query_cliente.py	/^    def get_cliente_For_ID(id):$/;"	kind:member	line:48
+get_depaCod	../localidades/departamento/get_departamento.py	/^    def get_depaCod(codStat):$/;"	kind:member	line:20
+get_depaOff	../localidades/departamento/get_departamento.py	/^    def get_depaOff():$/;"	kind:member	line:13
+get_depaOn	../localidades/departamento/get_departamento.py	/^    def get_depaOn():$/;"	kind:member	line:6
+get_departamento.py	../localidades/departamento/get_departamento.py	1;"	kind:file	line:1
+get_insumo.py	../administrar/proveedor/insumo/get_insumo.py	1;"	kind:file	line:1
+get_pedido.py	../administrar/proveedor/pedido/get_pedido.py	1;"	kind:file	line:1
+get_personal	../agente/Personal/query_personal.py	/^    def get_personal():$/;"	kind:member	line:6
+get_proveedor	../agente/Proveedor/get_proveedor.py	/^    def get_proveedor():$/;"	kind:member	line:6
+get_proveedor.py	../agente/Proveedor/get_proveedor.py	1;"	kind:file	line:1
+get_region.py	../localidades/region/get_region.py	1;"	kind:file	line:1
+get_regionBy_Id	../localidades/region/get_region.py	/^    def get_regionBy_Id(id):$/;"	kind:member	line:48
+get_regionOff	../localidades/region/get_region.py	/^    def get_regionOff():$/;"	kind:member	line:28
+get_regionOn	../localidades/region/get_region.py	/^    def get_regionOn():$/;"	kind:member	line:8
+index	../localidades/region/region.py	/^def index():$/;"	kind:function	line:6
+insertDetallePedido	../administrar/proveedor/pedido/get_pedido.py	/^    def insertDetallePedido(idinsumo, codigo, cantidad, precio, subtotal):$/;"	kind:member	line:65
+insertInsumo	../administrar/proveedor/insumo/get_insumo.py	/^    def insertInsumo(cod_insumo, descripcion, precio, iva, stock_ideal, stock_minimo):$/;"	kind:member	line:52
+insertPedido	../administrar/proveedor/pedido/get_pedido.py	/^    def insertPedido(fechaP, total, proveedor, empleado):$/;"	kind:member	line:43
+insert_cargo	../agente/cargo/get_cargo.py	/^    def insert_cargo(descripcion):$/;"	kind:member	line:28
+insert_city	../localidades/ciudad/get_ciudad.py	/^    def insert_city(cod, dscp, dep, state):$/;"	kind:member	line:128
+insert_client	../agente/Cliente/query_cliente.py	/^    def insert_client(cinumber, ruc, name, lastname, address, email, city, numberphone, birthday, sex, today):$/;"	kind:member	line:67
+insert_depa	../localidades/departamento/get_departamento.py	/^    def insert_depa(codDepa, dscp, reg, state):$/;"	kind:member	line:43
+insert_employee	../agente/Personal/query_personal.py	/^    def insert_employee(ruc, name, lastname, address, email, city, numberphone, birthday, today, esUsuario, password, cargo):$/;"	kind:member	line:52
+insert_proveedor	../agente/Proveedor/get_proveedor.py	/^    def insert_proveedor(codigo, ruc, razonSocial, address, numberphone, email, fechaI, today, nombrecontacto, telefonoContacto, city):$/;"	kind:member	line:51
+insert_region	../localidades/region/get_region.py	/^    def insert_region(codregion, descripcion):$/;"	kind:member	line:68
+insumo.py	../administrar/proveedor/insumo/insumo.py	1;"	kind:file	line:1
+json	../agente/Cliente/cliente.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+json	../agente/Personal/personal.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+json	../agente/Proveedor/proveedor.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+json	../agente/cargo/cargo.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+json	../agente/cargo/get_cargo.py	/^from flask import Flask, json, jsonify$/;"	kind:namespace	line:1
+json	../localidades/ciudad/ciudad.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+json	../localidades/departamento/departamento.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+json	../localidades/region/get_region.py	/^from flask import Flask, json, jsonify$/;"	kind:namespace	line:1
+json	../localidades/region/region.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+jsonify	../administrar/proveedor/insumo/insumo.py	/^from flask import Flask, jsonify, request$/;"	kind:namespace	line:1
+jsonify	../administrar/proveedor/pedido/pedido.py	/^from flask import Flask, jsonify, request$/;"	kind:namespace	line:1
+jsonify	../agente/Cliente/cliente.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+jsonify	../agente/Personal/personal.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+jsonify	../agente/Proveedor/proveedor.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+jsonify	../agente/cargo/cargo.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+jsonify	../agente/cargo/get_cargo.py	/^from flask import Flask, json, jsonify$/;"	kind:namespace	line:1
+jsonify	../app.py	/^from flask import Flask, jsonify$/;"	kind:namespace	line:1
+jsonify	../localidades/ciudad/ciudad.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+jsonify	../localidades/departamento/departamento.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+jsonify	../localidades/region/get_region.py	/^from flask import Flask, json, jsonify$/;"	kind:namespace	line:1
+jsonify	../localidades/region/region.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+main	../env/bin/autopep8	/^from autopep8 import main$/;"	kind:namespace	line:6
+mysql_connect.py	../mysql_connect.py	1;"	kind:file	line:1
+pedido.py	../administrar/proveedor/pedido/pedido.py	1;"	kind:file	line:1
+personal	../agente/Personal/personal.py	/^def personal():$/;"	kind:function	line:10
+personal.py	../agente/Personal/personal.py	1;"	kind:file	line:1
+personalbyid	../agente/Personal/personal.py	/^def personalbyid(id):$/;"	kind:function	line:141
+proveedor	../agente/Proveedor/proveedor.py	/^def proveedor():$/;"	kind:function	line:9
+proveedor.py	../agente/Proveedor/proveedor.py	1;"	kind:file	line:1
+proveedorbyId	../agente/Proveedor/proveedor.py	/^def proveedorbyId(id):$/;"	kind:function	line:49
+pycodestyle	../env/bin/pycodestyle	1;"	kind:file	line:1
+query_cliente.py	../agente/Cliente/query_cliente.py	1;"	kind:file	line:1
+query_personal.py	../agente/Personal/query_personal.py	1;"	kind:file	line:1
+re	../env/bin/autopep8	/^import re$/;"	kind:namespace	line:3
+re	../env/bin/pycodestyle	/^import re$/;"	kind:namespace	line:3
+redirect	../agente/Cliente/cliente.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+redirect	../agente/Personal/personal.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+redirect	../agente/Proveedor/proveedor.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+redirect	../agente/cargo/cargo.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+redirect	../localidades/ciudad/ciudad.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+redirect	../localidades/departamento/departamento.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+redirect	../localidades/region/region.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+region.py	../localidades/region/region.py	1;"	kind:file	line:1
+region_depa	../localidades/region/region.py	/^def region_depa():$/;"	kind:function	line:34
+render_template	../agente/Cliente/cliente.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+render_template	../agente/Personal/personal.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+render_template	../agente/Proveedor/proveedor.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+render_template	../agente/cargo/cargo.py	/^from app import app, render_template, db$/;"	kind:namespace	line:2
+render_template	../agente/cargo/cargo.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+render_template	../localidades/ciudad/ciudad.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+render_template	../localidades/departamento/departamento.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+render_template	../localidades/region/region.py	/^from app import app, render_template, db$/;"	kind:namespace	line:2
+render_template	../localidades/region/region.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+request	../administrar/proveedor/insumo/insumo.py	/^from flask import Flask, jsonify, request$/;"	kind:namespace	line:1
+request	../administrar/proveedor/pedido/pedido.py	/^from flask import Flask, jsonify, request$/;"	kind:namespace	line:1
+request	../agente/Cliente/cliente.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+request	../agente/Personal/personal.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+request	../agente/Proveedor/proveedor.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+request	../agente/cargo/cargo.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+request	../localidades/ciudad/ciudad.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+request	../localidades/departamento/departamento.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+request	../localidades/region/region.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+sys	../env/bin/autopep8	/^import sys$/;"	kind:namespace	line:4
+sys	../env/bin/pycodestyle	/^import sys$/;"	kind:namespace	line:4
+time	../agente/Cliente/cliente.py	/^import time$/;"	kind:namespace	line:5
+time	../agente/Personal/personal.py	/^import time$/;"	kind:namespace	line:6
+time	../agente/Proveedor/proveedor.py	/^import time$/;"	kind:namespace	line:5
+updateInsumo	../administrar/proveedor/insumo/get_insumo.py	/^    def updateInsumo(cod_insumo, descripcion, precio, iva, estado, stock_actual, stock_ideal, stock_minimo):$/;"	kind:member	line:95
+update_cargo	../agente/cargo/cargo.py	/^def update_cargo(id):$/;"	kind:function	line:60
+update_cargo	../agente/cargo/get_cargo.py	/^    def update_cargo(codcargo, descripcion, estado):$/;"	kind:member	line:51
+update_ciudad	../localidades/ciudad/ciudad.py	/^def update_ciudad(id):$/;"	kind:function	line:71
+update_ciudad	../localidades/ciudad/get_ciudad.py	/^    def update_ciudad(cod, descripcion, estado, depa):$/;"	kind:member	line:100
+update_cliente	../agente/Cliente/cliente.py	/^def update_cliente(id):$/;"	kind:function	line:99
+update_customer	../agente/Cliente/query_cliente.py	/^    def update_customer(id, estado, ruc, name, lastname, address, email, city, numberphone, birthday, sex):$/;"	kind:member	line:109
+update_depa	../localidades/departamento/get_departamento.py	/^    def update_depa(codregion, descripcion, estado, region):$/;"	kind:member	line:75
+update_departamento	../localidades/departamento/departamento.py	/^def update_departamento(id):$/;"	kind:function	line:99
+update_employee	../agente/Personal/personal.py	/^def update_employee(id):$/;"	kind:function	line:109
+update_employee	../agente/Personal/query_personal.py	/^    def update_employee(id, estado, ruc, name, lastname, address, email, city, numberphone, birthday, sex):$/;"	kind:member	line:94
+update_proveedor	../agente/Proveedor/get_proveedor.py	/^    def update_proveedor(codigo, ruc, razonSocial, address, numberphone, estado, email, fechaI, today, nombrecontacto, city):$/;"	kind:member	line:93
+update_proveedor	../agente/Proveedor/proveedor.py	/^def update_proveedor(id):$/;"	kind:function	line:132
+update_region	../localidades/region/get_region.py	/^    def update_region(codregion, descripcion, estado):$/;"	kind:member	line:91
+update_region	../localidades/region/region.py	/^def update_region(id):$/;"	kind:function	line:68
+update_state	../agente/cargo/get_cargo.py	/^    def update_state(codcargo):$/;"	kind:member	line:79
+update_state	../localidades/region/get_region.py	/^    def update_state(codregion):$/;"	kind:member	line:119
+updateinsumo	../administrar/proveedor/insumo/insumo.py	/^def updateinsumo(id):$/;"	kind:function	line:95
+url_for	../agente/Cliente/cliente.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+url_for	../agente/Personal/personal.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+url_for	../agente/Proveedor/proveedor.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+url_for	../agente/cargo/cargo.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+url_for	../localidades/ciudad/ciudad.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+url_for	../localidades/departamento/departamento.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+url_for	../localidades/region/region.py	/^from flask import Flask, json, jsonify, render_template, request, redirect, url_for, flash$/;"	kind:namespace	line:1
+validar_ciudad	../localidades/ciudad/ciudad.py	/^def validar_ciudad():$/;"	kind:function	line:53
+validar_cliente	../agente/Cliente/cliente.py	/^def validar_cliente():$/;"	kind:function	line:58
+validar_departamento	../localidades/departamento/departamento.py	/^def validar_departamento():$/;"	kind:function	line:81
